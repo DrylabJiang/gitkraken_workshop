@@ -4,7 +4,7 @@
 # Print Hello World
 myString <- "Hello, World!"
 
-print (myString)
+#print (myString)
 
 
 # Monte Carlo Pi
